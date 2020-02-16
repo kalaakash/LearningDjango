@@ -1,0 +1,5 @@
+For Django access : https://www.djangoproject.com/ 
+
+Documentation : https://docs.djangoproject.com/en/3.0/
+
+To access the tutorial : https://docs.djangoproject.com/en/3.0/intro/
